@@ -8,3 +8,5 @@ Automatic attendance: After the model has been trained, select the "Automatic At
 
 Change the DB name in the AMS_Run.py file and install WampServer if you want to save the attendance data in a database.
 
+ENJOYYYY!!!!
+
